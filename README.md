@@ -1,2 +1,11 @@
-# Web Engineering 2015-2016 / Microservices
-Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/Laboratory-6-microservices/wiki) in order to get the instructions for this assignment.
+##1.- The two microservices are running and registered
+### Account Microservice
+![Account Microservice running and registered](https://raw.github.com/Santi-7/Laboratory-6-microservices/master/First Account.png)
+### WebService Microservice
+![WebService Microservice running and registered](https://raw.github.com/Santi-7/Laboratory-6-microservices/master/Web.png)
+
+##2.- The service registration service has the two microservices registered
+![Dashboard showing registered services](https://raw.github.com/Santi-7/Laboratory-6-microservices/master/Dashboard.png)
+
+##3.- A second account microservice is running in the port 4444 and it is registered
+![Account Microservice running on port 4444](https://raw.github.com/Santi-7/Laboratory-6-microservices/master/Second Account.png)
